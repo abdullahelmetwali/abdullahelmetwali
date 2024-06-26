@@ -1,24 +1,10 @@
-# Summary
-- 👨‍💻 Here's Abdullah ElMetwali
-- 😁 Frontend Developer seeking for new chanllenges
-- 👀 Currently seeking for an internship
-- 🏋️‍♂️ Lifter Guy
-- 📫 Reach me at abdullahelmetwali@icloud.com
+## Hi There 👋 I'm Abdullah
+I'm a Junior Frontend Developer from Mansoura, Egypt.
 
-## 🌐 Socials
+Seeking for new challenges and Digging for more. 
 
-- [Twitter 🐦](https://x.com/AbdullahAmrz)
-- [LinkedIn 🏢](https://www.linkedin.com/in/abdullahelmetwali)
+ECE Student whose hate electronics , 21 Lifting Guy.
 
-## 💻 Technologies Used
-- HTML
-- CSS
-- JS
-- SCSS
-- TailwindUI
-- ReactJS
-- Redux
-- VueJS
-- Vuex
-- RESTAPIs
-- Nodejs
+Feel free to reach out me at abdullahelmetwali@icloud.com
+
+
