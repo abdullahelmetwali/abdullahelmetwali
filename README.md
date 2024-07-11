@@ -1,12 +1,12 @@
 ## Hi There 👋 I'm Abdullah
-I'm a Junior Frontend Developer from Mansoura, Egypt.
+I'm a Junior Frontend Developer based in Mansoura, Egypt.
 
 Seeking for new challenges and Digging for more. Thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
 ECE Student whose hate electronics , 21 Lifting Guy.
 
-Feel free to reach out me at abdullahelmetwali@icloud.com
+## Reach Me At 
+- [Mail](abdullahelmetwali@icloud.com)
+- [LinkedIn](https://www.linkedin.com/in/abdullahelmetwali/)
 
-Portfolio: [https://abdullahelmetwali.netlify.app/work](https://abdullahelmetwali.netlify.app/work)
-
-
+## [Portfolio](https://abdullahelmetwali.netlify.app/work)
