@@ -11,4 +11,3 @@ ECE Student whose hate electronics , 21 Lifting Guy.
 
 ## [Portfolio](https://abdullahelmetwali.netlify.app/work)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahelmetwali)](https://git.io/streak-stats)
