@@ -6,7 +6,7 @@ Seeking for new challenges and Digging for more. Thrive on turning complex probl
 ECE Student whose hate electronics , 21 Lifting Guy.
 
 ## Reach Me At 
-- [Mail](abdullahelmetwali@icloud.com)
+- [Mail](mailto:abdullahelmetwali@icloud.com)
 - [LinkedIn](https://www.linkedin.com/in/abdullahelmetwali/)
 
 ## [Portfolio](https://abdullahelmetwali.netlify.app/work)
