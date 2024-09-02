@@ -1,5 +1,5 @@
 ## Hi There 👋 I'm Abdullah
-I'm a Junior Frontend Developer based in Mansoura, Egypt.
+I'm a Frontend Developer based in Mansoura, Egypt.
 
 Seeking for new challenges and Digging for more. Thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
