@@ -4,7 +4,7 @@ I'm a Frontend Developer based in Mansoura, Egypt.
 Digging for more. 
 Thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
-ECE Student whose hate electronics , 21 Lifting Guy.
+ECE Student whose hate electronics , 22 Lifting Guy.
 
 ## Reach Me At 
 - [Mail](mailto:abdullahelmetwali@icloud.com)
