@@ -7,7 +7,7 @@ Thrive on turning complex problems into simple, beautiful, and intuitive designs
 ECE Student whose hate electronics , 22 Lifting Guy.
 
 ## Reach Me At 
-- [Mail](mailto:abdullahelmetwali@icloud.com)
+- [Mail](mailto:abdullahelmetwali@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/abdullahelmetwali/)
 
 ## [Portfolio](https://abdullahelmetwali.vercel.app/)
