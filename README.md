@@ -10,5 +10,5 @@ ECE Student whose hate electronics , 22 Lifting Guy.
 - [Mail](mailto:abdullahelmetwali@icloud.com)
 - [LinkedIn](https://www.linkedin.com/in/abdullahelmetwali/)
 
-## [Portfolio](https://abdullahelmetwali.netlify.app/work)
+## [Portfolio](https://abdullahelmetwali.vercel.app/)
 
