@@ -1,5 +1,5 @@
 ## Hi There 👋 I'm Abdullah
-I'm a Frontend Developer based in Mansoura, Egypt.
+I'm a Frontend Engineer based in Mansoura, Egypt.
 
 Digging for more. 
 Thrive on turning complex problems into simple, beautiful, and intuitive designs.
