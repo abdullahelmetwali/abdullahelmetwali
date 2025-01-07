@@ -1,7 +1,6 @@
 ## Hi There 👋 I'm Abdullah
-I'm a Frontend Engineer based in Mansoura, Egypt.
+Self-Taught Frontend Engineer whose digging for more.
 
-Digging for more. 
 Thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
 ECE Student whose hate electronics.
