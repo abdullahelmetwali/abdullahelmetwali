@@ -3,7 +3,7 @@ Self-Taught Frontend Engineer whose digging for more.
 
 Thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
-ECE Student whose hate electronics.
+ECE engineer who hates electronics.
 
 ## Reach Me At 
 - [Mail](mailto:abdullahelmetwali@gmail.com)
