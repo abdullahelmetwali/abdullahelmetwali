@@ -1,5 +1,5 @@
 ## Hi There 👋 I'm Abdullah
-Self-Taught Frontend Engineer whose digging for more.
+Autodidact Frontend Engineer whose digging for more.
 
 Thrive on turning complex problems into simple, beautiful, and intuitive designs.
 
