@@ -2,6 +2,7 @@
 Autodidact Frontend Engineer whose digging for more.
 
 Thrive on turning complex problems into simple, beautiful, and intuitive designs.
+
 ECE engineer who hates electronics.
 
 ## Reach Me At 
